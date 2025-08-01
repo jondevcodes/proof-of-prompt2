@@ -4,19 +4,11 @@ Based on your YouTube demo showing the complete local implementation, here's an 
 # 🧠 Proof-of-Prompt  
 > *The first cryptographic notary for AI prompts and outputs—anchored to blockchain for tamper-proof verification.*
 
-[![Proof-of-Prompt Local Demo](https://img.shields.io/badge/View-Local_Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=mTieSt2muQ4)
+> **Live Demo Confirmed**: Local implementation fully operational as shown in [video demonstration](https://www.youtube.com/watch?v=mTieSt2muQ4)
+```
 
 > **Solving the trust crisis in AI.**  
 Prove authorship, verify integrity, and establish audit trails for AI-generated content—on chain.
-
----
-
-## 🎥 Full Working Demo
-See the complete end-to-end system in action:
-
-[![Proof-of-Prompt Local Implementation](https://img.youtube.com/vi/mTieSt2muQ4/0.jpg)](https://www.youtube.com/watch?v=mTieSt2muQ4)
-
-*(Click image to watch video demonstration)*
 
 ---
 
@@ -68,7 +60,7 @@ This project was created and maintained by @jondevcodes, who designed and implem
 
 🌐 RESTful routes for AI prompt/response verification
 
-🧪 **Live local implementation** verified on Ethereum Sepolia ([see demo](https://www.youtube.com/watch?v=mTieSt2muQ4))
+🧪 **Live local implementation** verified on Ethereum Sepolia 
 
 📊 Swagger docs and working API endpoint for public testing
 
@@ -92,8 +84,6 @@ echo "BLOCKCHAIN_RPC=https://polygon-rpc.com" >> .env
 uvicorn main:app --reload
 ```
 
-> **See it in action**: Watch the [local demo video](https://www.youtube.com/watch?v=mTieSt2muQ4) showing the end-to-end workflow
-
 ---
 
 ## 🧪 Verified Local Implementation
@@ -114,7 +104,7 @@ Successful end-to-end interaction as shown in demo:
 }
 ```
 
-[![Etherscan Verified](https://img.shields.io/badge/Etherscan-Verified-brightgreen)](https://sepolia.etherscan.io/tx/0x8bf9d366797e0f07e9eb5a154e5a3e68325bbd565463a0546b39ed4b4a89e3ff)
+[![Etherscan Verified]](https://sepolia.etherscan.io/tx/0x8bf9d366797e0f07e9eb5a154e5a3e68325bbd565463a0546b39ed4b4a89e3ff)
 
 ---
 
