@@ -1,6 +1,4 @@
-Based on your YouTube demo showing the complete local implementation, here's an updated README with enhanced documentation and video integration:
 
-```markdown
 # 🧠 Proof-of-Prompt  
 > *The first cryptographic notary for AI prompts and outputs—anchored to blockchain for tamper-proof verification.*
 
