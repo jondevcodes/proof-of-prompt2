@@ -4,9 +4,6 @@ Based on your YouTube demo showing the complete local implementation, here's an 
 # 🧠 Proof-of-Prompt  
 > *The first cryptographic notary for AI prompts and outputs—anchored to blockchain for tamper-proof verification.*
 
-> **Live Demo Confirmed**: Local implementation fully operational as shown in [video demonstration](https://www.youtube.com/watch?v=mTieSt2muQ4)
-```
-
 > **Solving the trust crisis in AI.**  
 Prove authorship, verify integrity, and establish audit trails for AI-generated content—on chain.
 
